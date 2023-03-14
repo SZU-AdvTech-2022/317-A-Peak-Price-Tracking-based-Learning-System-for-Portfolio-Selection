@@ -1,0 +1,9 @@
+@article{REPO-318,
+    author = "Lai, Zhao-Rong and Dai, Dao-Qing and Ren, Chuan-Xian and Huang, Ke-Kun",
+    journal = "IEEE Transactions on Neural Networks and Learning Systems",
+    number = "7",
+    pages = "2823--2832",
+    title = "{A Peak Price Tracking-based Learning System for Portfolio Selection}",
+    volume = "29",
+    year = "2017"
+}
